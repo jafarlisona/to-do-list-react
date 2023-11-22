@@ -1,0 +1,33 @@
+.input{
+    width: 700px;
+    height: 55px;
+    background-color: gray;
+    border-radius: 30px;
+    padding-left: 50px;
+    margin: 50px auto;
+}
+.input input{
+    border: none;
+    background-color: transparent;
+    height: 55px;
+    width: 500px;
+    outline: none;
+    font-size: 18px;
+}
+.input .addBtn{
+    width: 150px;
+    height: 55px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+.input .list{
+    border-radius: 20px;
+    margin: 20px auto;
+    background-color: white;
+    margin-right: 50px;
+    width: 600px;
+}
